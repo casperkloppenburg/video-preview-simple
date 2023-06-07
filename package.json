@@ -1,0 +1,17 @@
+{
+  "name": "video-player-simple",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "prettier": "2.7.1",
+    "vite": "^4.0.0"
+  },
+  "dependencies": {
+    "@creatomate/preview": "^1.0.0"
+  }
+}
